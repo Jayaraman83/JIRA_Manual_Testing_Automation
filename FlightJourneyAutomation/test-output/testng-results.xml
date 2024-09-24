@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-12T12:30:33 IST" name="Default suite" finished-at="2024-09-12T12:30:34 IST" duration-ms="19">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T12:30:33 IST" name="Default test" finished-at="2024-09-12T12:30:34 IST" duration-ms="19">
+      <class name="flightBooking.LearnArrays">
+        <test-method signature="simplaArray()[pri:0, instance:flightBooking.LearnArrays@659499f1]" started-at="2024-09-12T12:30:34 IST" name="simplaArray" finished-at="2024-09-12T12:30:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simplaArray -->
+        <test-method signature="dynamicArray()[pri:1, instance:flightBooking.LearnArrays@659499f1]" started-at="2024-09-12T12:30:34 IST" name="dynamicArray" finished-at="2024-09-12T12:30:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicArray -->
+      </class> <!-- flightBooking.LearnArrays -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
